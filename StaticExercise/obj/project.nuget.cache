@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qrQZBxAgDHsLboMpvgCebpDMclUtdolKVwJXB+1qzMwIgcez0dSBaOJDvJLoG0X39kNmeJLWqYRCJLVBa9xCug==",
+  "dgSpecHash": "kZBkxlxiSrJzUTUJhrLwkq5lvFMfbsV2MEa996KX8ZRN2yoL81OhKXiScX2CPqHNgjjiynjsoDpt73FC2UrsRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\StaticExercise\\StaticExercise\\StaticExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/abdimajidabdikadir/Desktop/repos/Static-Exercise/StaticExercise/StaticExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/abdimajidabdikadir/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/abdimajidabdikadir/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/abdimajidabdikadir/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }
